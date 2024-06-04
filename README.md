@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/devxb/gitanimals">
+<a>
 <img
   src="https://render.gitanimals.org/farms/miridih-jwlee01"
   width="600"
